@@ -11,9 +11,9 @@ https://github.com/astronexus/HYG-Database
 
 ### Utilities
 
-* convert_hyg_to_json.py
+* convert_hyg_to_json.ipynb 
 
-Converts hygdata_v3.csv to JSON format. 
+Converts hygdata_v3.csv to JSON format using selected columns
 
 * add_image_links.py (TODO)
 
